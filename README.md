@@ -1,6 +1,4 @@
-# IT-support
-“Analyze IT support ticket data to reduce cost, improve customer satisfaction, reduce escalations, and efficiently assign engineers using data analysis and machine learning.”
-Client Churn Risk and Revenue Forecasting in Managed IT Services
+##Client Churn Risk and Revenue Forecasting in Managed IT Services##
 
 About the Project
 
